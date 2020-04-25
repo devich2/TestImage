@@ -1,0 +1,63 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TestImage/1.0.0": {
+        "dependencies": {
+          "Magick.NET-Q16-AnyCPU": "7.16.0"
+        },
+        "runtime": {
+          "TestImage.dll": {}
+        }
+      },
+      "Magick.NET-Q16-AnyCPU/7.16.0": {
+        "runtime": {
+          "lib/netstandard20/Magick.NET-Q16-AnyCPU.dll": {
+            "assemblyVersion": "7.16.0.0",
+            "fileVersion": "7.16.0.0"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/linux-x64/native/Magick.Native-Q16-x64.dll.so": {
+            "rid": "linux-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/osx-x64/native/Magick.Native-Q16-x64.dll.dylib": {
+            "rid": "osx-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x64/native/Magick.Native-Q16-x64.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "7.0.10.7"
+          },
+          "runtimes/win-x86/native/Magick.Native-Q16-x86.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "7.0.10.7"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestImage/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Magick.NET-Q16-AnyCPU/7.16.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-flpMmT6MRFDZvYbNbbP8XsXpGEiNmDDOuJTOMQDyZ7B/Zx3UHM7NN8REJsDyahVRF1ncIrE6HXKBL1aM2fj7hQ==",
+      "path": "magick.net-q16-anycpu/7.16.0",
+      "hashPath": "magick.net-q16-anycpu.7.16.0.nupkg.sha512"
+    }
+  }
+}

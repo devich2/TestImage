@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zf0DmnWDOe0BvY7KRrB9qSiMBoA/N3hNTexbHQiBMUIpPGe6j4AM0o8Sikh5hK8l3awTfGA0CQjzq+eZHx51cg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Devid\\Desktop\\ImageTest\\TestImage\\TestImage\\TestImage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Devid\\.nuget\\packages\\magick.net-q16-anycpu\\7.16.0\\magick.net-q16-anycpu.7.16.0.nupkg.sha512"
+  ],
+  "logs": []
+}
